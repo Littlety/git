@@ -10,3 +10,4 @@ def arithmetic(arg1, arg2, op):
         return arg1 / arg2
     else:
         return "Неизвестная операция"
+#Эта очень простая, но полезная функция
